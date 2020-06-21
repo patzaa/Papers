@@ -1,6 +1,6 @@
 Paper Summary
 =============
-_A list of papers I find interesting with a single sentece on main findings. Related to topics in NLP, ML and RL.
+_A list of papers I find interesting including a single sentece on main findings. Related to topics in NLP, ML and RL.
 Specifically Knowledge Graph Embeddings, Reasoning using RL, and Transformer_  
 
 Content
