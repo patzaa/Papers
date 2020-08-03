@@ -26,6 +26,9 @@ Content
 ### Computer Vision: 
 - [ReadNet:Towards Accurate ReID with Limited and Noisy Samples](https://arxiv.org/abs/2005.05740)
 
+### Reinforcement Learning: 
+
+- [Ecological Reinforcement Learning](https://arxiv.org/pdf/2006.12478.pdf): Aim to study how the non-episodic RL problem is affected by particular properties of the training environments.
 
 2019
 --------
