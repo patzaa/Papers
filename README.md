@@ -5,7 +5,7 @@ Specifically Knowledge Graph Embeddings, Reasoning using RL, and Transformer_
 
 Content
 ========= 
- - [Graph Embeddings](#Graph-Embeddings) 
+  - [Graph Embeddings](#Graph-Embeddings) 
   - [Reasoning](#Reasoning)
   - [Architectures](#Architectures) 
 
@@ -32,6 +32,8 @@ Content
 
 2019
 --------
+### Reinforcement Learning:
+[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/abs/1906.01624): 
 Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
 
 2018
