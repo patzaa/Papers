@@ -1,7 +1,7 @@
 Paper Summary
 =============
-_A list of papers I find interesting including a single sentece on main findings. Related to topics in NLP, ML and RL.
-Specifically Knowledge Graph Embeddings, Reasoning using RL, and Transformer_  
+_A list of papers I find interesting including a single sentece on main findings. On topics in NLP, ML and RL.
+Specifically, Knowledge Graph Embeddings, Dialoge Systems, Reasoning using RL, and Transformer-based architectures_  
 
 Content
 ========= 
@@ -18,7 +18,8 @@ Content
 --------
 ### Graph Embeddings: 
 
-- [
+- [A survey on empathetic dialogue systems](https://ww.sentic.net/empathetic-dialogue-systems.pdf): Literature review of empathetic dialogue systems, whose goal is to enhance the perception and expression of emotional states, personal preference, and knowledge. 
+- [A survey on knowledge graphs: Representation, acquisition and applications](https://arxiv.org/abs/2002.00388): Comprehensive review on state-of-the-art knowledge graph embedding models.  
 
 ### Reasoning: 
 
