@@ -3,12 +3,12 @@ Paper Summary
 _A list of papers I find interesting including a single sentece on main findings. On topics in NLP, ML and RL.
 Specifically, Knowledge Graph Embeddings, Dialoge Systems, Reasoning using RL, and Transformer-based architectures._  
 
-Content 2020
+Content (2020)
 ========= 
   - [Graph Embeddings](#Graph-Embeddings) 
   - [Reasoning](#Reasoning)
-  - [Computer Vision](#Computer Vision)
-  - [Reinforcement Learning](#Reinforcement Learning)
+  - [Computer Vision](#Computer-Vision)
+  - [Reinforcement Learning](#Reinforcement-Learning)
   - [Architectures](#Architectures) 
 
 ![](https://github.com/patzaa/Papers/blob/master/Title.png?raw=true)
