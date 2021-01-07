@@ -3,7 +3,7 @@ Paper Summary
 _A list of papers I find interesting including a single sentece on main findings. On topics in NLP, ML and RL.
 Specifically, Knowledge Graph Embeddings, Dialoge Systems, Reasoning using RL, and Transformer-based architectures._  
 
-Content (2020)
+Content (2021)
 ========= 
   - [Graph Embeddings](#Graph-Embeddings) 
   - [Reasoning](#Reasoning)
@@ -13,8 +13,14 @@ Content (2020)
 
 ![](https://github.com/patzaa/Papers/blob/master/Title.png?raw=true)
 
-
-
+2021
+-------
+### Graph Embeddings: 
+### Reasoning:
+### Deep Learning:
+### Reinforcement Learning: 
+### NLP:
+- [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs
 
 2020
 --------
@@ -37,8 +43,7 @@ Content (2020)
 - [Ecological Reinforcement Learning](https://arxiv.org/pdf/2006.12478.pdf): Aim to study how the non-episodic RL problem is affected by particular properties of the training environments.
 
 ### NLP:
-
-- [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs
+- [Reformer: The efficient Tranformer](https://openreview.net/pdf?id=rkgNKkHtvB): Introduce two techniques to imporve efficiency, such as, locality-sensitive hashing and reversible residual layers. 
 
 
 2019
