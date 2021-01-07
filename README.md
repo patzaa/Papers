@@ -20,7 +20,7 @@ Content (2021)
 ### Deep Learning:
 ### Reinforcement Learning: 
 ### NLP:
-- [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs
+- [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 model trained to generate images from text description
 
 2020
 --------
