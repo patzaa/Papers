@@ -32,6 +32,9 @@ Content (2021)
 
 ### Reasoning: 
 - [A survey on empathetic dialogue systems](https://ww.sentic.net/empathetic-dialogue-systems.pdf): Literature review of empathetic dialogue systems, whose goal is to enhance the perception and expression of emotional states, personal preference, and knowledge. 
+- [LITE TRANSFORMER WITH LONG-SHORT RANGE ATTENTIONLITE TRANSFORMER WITH LONG-SHORT RANGE ATTENTION](https://openreview.net/pdf?id=ByeMPlHKPH):  The key primitive is the Long-Short Range Attention (LSRA), where one group of heads specializes in the local context modeling (by convolution) while another group specializes in the long-distance relationship modeling (by attention).
+
+
 
 ### Deep Learning: 
 - [ReadNet: Towards Accurate ReID with Limited and Noisy Samples](https://arxiv.org/abs/2005.05740)
