@@ -42,6 +42,8 @@ Content (2021)
 - [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b): Transforming image context into linar layers (Lambdas). LambdaResNets reach state-of-the-art accuracies on ImageNet while being ∼4.5x faster than the popular EfficientNets on modern machine learning accelerators. 
 - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152): This paper challenges this prevailing view and suggest that rather than representing the data, deep neural networks store superpositions of the training data in their weights and act as kernel machines at inference time. 
 - [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029): Proposes SimCLRv2 and shows that semi-supervised learning benefits a lot from self-supervised pre-training.
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf): A pure transformer applied directly to sequences of image patches can perform very well on image classification task
+
 ### Reinforcement Learning: 
 
 - [Ecological Reinforcement Learning](https://arxiv.org/pdf/2006.12478.pdf): Aim to study how the non-episodic RL problem is affected by particular properties of the training environments.
