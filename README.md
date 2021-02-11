@@ -18,6 +18,7 @@ Content (2021)
 ### Graph Embeddings: 
 ### Reasoning:
 ### Deep Learning:
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961): Hardrouting information simplifies the MoE routing algorithm and design intuitive improved models with reduced communication and computational costs 
 ### Reinforcement Learning: 
 ### NLP:
 - [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 model trained to generate images from text description
