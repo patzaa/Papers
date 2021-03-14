@@ -21,7 +21,7 @@ Content (2021)
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961): Hardrouting information simplifies the MoE routing algorithm and design intuitive improved models with reduced communication and computational costs 
 - [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/pdf/2010.14406.pdf): Transporter Network as a simple model architecture that rearranges deep features to infer spatial displacements from visual input for robotic manipulation 
 ### Reinforcement Learning: 
- - [ASYMMETRIC SELF-PLAY FOR AUTOMATIC GOAL DIS- COVERY IN ROBOTIC MANIPULATION](https://arxiv.org/pdf/2101.04882.pdf) Trained a single, goal-conditioned policy that can solve many robotic manipula- tion tasks, including tasks with previously unseen goals and objects
+ - [ASYMMETRIC SELF-PLAY FOR AUTOMATIC GOAL DIS- COVERY IN ROBOTIC MANIPULATION](https://arxiv.org/pdf/2101.04882.pdf): Trained a single, goal-conditioned policy that can solve many robotic manipula- tion tasks, including tasks with previously unseen goals and objects
 
 ### NLP:
 - [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 model trained to generate images from text description
