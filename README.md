@@ -19,7 +19,8 @@ Content (2021)
 ### Reasoning:
 ### Deep Learning:
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961): Hardrouting information simplifies the MoE routing algorithm and design intuitive improved models with reduced communication and computational costs 
-- [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/pdf/2010.14406.pdf): Transporter Network as a simple model architecture that rearranges deep features to infer spatial displacements from visual input for robotic manipulation 
+- [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/pdf/2010.14406.pdf): Transporter Network as a simple model architecture that rearranges deep features to infer spatial displacements from visual input for robotic manipulation
+- [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206): Introducing the Perceiver, a model that builds upon Transformers and hence makes few architectural assumptions about the relationship between its inputs, such as grid like structure in pictures for example.  
 ### Reinforcement Learning: 
  - [ASYMMETRIC SELF-PLAY FOR AUTOMATIC GOAL DIS- COVERY IN ROBOTIC MANIPULATION](https://arxiv.org/pdf/2101.04882.pdf): Trained a single, goal-conditioned policy that can solve many robotic manipula- tion tasks, including tasks with previously unseen goals and objects
 
