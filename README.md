@@ -24,7 +24,7 @@ Content (2021)
 - [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/abs/2103.16302): Empirically show that such a spatial dimension reduction is beneficial to a transformer architecture as well, and propose a novel Pooling-based Vision Transformer (PiT)
 - [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/pdf/2105.03824.pdf): Fourier transformations applied to tokens replaces the self-attention layer with an resuting accuracy of 92% compared to BERT. 
 ### Reinforcement Learning: 
- - [Asymmetric self-play for automatic goal discovery in robotic manipulation](https://arxiv.org/pdf/2101.04882.pdf): Trained a single, goal-conditioned policy that can solve many robotic manipula- tion tasks, including tasks with previously unseen goals and objects
+ - [Asymmetric self-play for automatic goal discovery in robotic manipulation](https://arxiv.org/pdf/2101.04882.pdf): Trained a single, goal-conditioned policy that can solve many robotic manipulation tasks, including tasks with previously unseen goals and objects
 
 ### NLP:
 - [Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets](https://cdn.openai.com/palms.pdf): adjusting GPT-3 models with as little as 80 text samples to reduce toxicity, gender, race, and religious imbalances.   
