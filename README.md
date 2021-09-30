@@ -30,7 +30,9 @@ Content (2021)
 - [Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets](https://cdn.openai.com/palms.pdf): adjusting GPT-3 models with as little as 80 text samples to reduce toxicity, gender, race, and religious imbalances.   
 - [Pangu-α: large-scale autoregressive pretrained chinese language models with auto-parallel computation](https://arxiv.org/pdf/2104.12369.pdf):100 billion parameter model trained on 1.1TB  Chinese data 
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961): Hardrouting information simplifies the MoE routing algorithm and design intuitive improved models with reduced communication and computational costs 
-- [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 model trained to generate images from text description
+- [DALL-E: Creating Images form Text](https://openai.com/blog/dall-e/): GPT-3 model trained to generate images from text description 
+- [CLIP: Connecting Text and Images](https://openai.com/blog/clip/): Great zero-shot performance
+- [VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding](https://arxiv.org/pdf/2109.14084.pdf): Towards multi-modal video understanding
 
 2020
 --------
