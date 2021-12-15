@@ -1,7 +1,7 @@
 Paper Summary
 =============
-_A list of papers I find interesting including a single sentece on main findings. On topics in NLP, ML and RL.
-Specifically, Knowledge Graph Embeddings, Dialoge Systems, Reasoning using RL, and Transformer-based architectures._  
+_A list of papers I find interesting including a single sentece on main findings. On topics in NLP, DL and RL.
+Specifically, computer vision, knowledge graph embeddings, dialoge systems, reasoning using RL, and transformer-based architectures._  
 
 Content (2021)
 ========= 
@@ -67,8 +67,13 @@ Content (2021)
 
 2019
 --------
+
+### Computer Vision
+
+- [3D human pose estimation in video with temporal convolutions and semi-supervised training](https://dariopavllo.github.io/VideoPose3D/): Pretrained model for 3D pose estimation with very good results
+
 ### Reinforcement Learning:
-[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/abs/1906.01624): 
+- [Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/abs/1906.01624): 
 Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
 
 2018
